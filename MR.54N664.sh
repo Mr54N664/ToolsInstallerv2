@@ -33,7 +33,7 @@ echo $me"5.     "$i"PENETRATION Test R_HAWK""         √"
 echo  "|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|" | lolcat
 echo $me"6.      "$i"TOOL HACK FB LENGKAP""           √"
 echo  "|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|" | lolcat
-echo $me"7.   "         $i"DEFACE""                   √"
+echo $me"7.   "             $i"DEFACE""               √"
 echo  "|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|" | lolcat
 echo $me"8.            "$i"WEEMAN""                   √"
 echo  "|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|•|" | lolcat
